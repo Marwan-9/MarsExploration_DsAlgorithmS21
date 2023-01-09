@@ -1,5 +1,5 @@
 # Mars Exploration Simulator
-Mars Exploration is a simple command-line simulator for a hypothetical Mars exploration mission.
+Mars Exploration is a simple command-line simulator for a hypothetical Mars exploration mission, written in C++.
 
 
 
