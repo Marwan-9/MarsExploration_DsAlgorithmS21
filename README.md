@@ -1,6 +1,17 @@
 # Mars Exploration Simulator
 Mars Exploration is a simple command-line simulator for a hypothetical Mars exploration mission.
 
+
+
+# Table of Contents
+
+1. [Overview](#Overview)
+2. [Simulator Context](#Simulator-Context)
+3. [How to Run the Program](#How-to-Run)
+5. [How to Use the Program](#How-to-Use-the-Program)
+5. [Contributing](#Contributing)
+6. [License](#License)
+
 ## Overview 
 This was the project of the "Data Structures" course in Cairo University, Computer Engineering Department. It was aimed after the completion of this project that we will be able to:
 - Understand unstructured, natural language problem description and derive an appropriate design.
@@ -8,15 +19,7 @@ This was the project of the "Data Structures" course in Cairo University, Comput
 - Build and use data structures to implement the proposed design.
 - Write a complete object-oriented C++ program that performs a non-trivial task.
 
-# Table of Contents
-
-1. [Simulator Context](#Simulator-Context)
-2. [How it works](#How-it-works)
-3. [Contributing](#Contributing)
-4. [License](#License)
-
-
-# Simulator Context
+## Simulator Context
 In the hope of getting to know more about Mars and the possibility of life on its surface, a
 huge number of exploratory missions to different regions of the planet need to be conducted.
 Imagine (at some future time) that we have several rovers of different types and capabilities on the
@@ -25,7 +28,20 @@ base station which acts as the central point from which the different rovers beg
 missions and to which they return after mission completion. The base station basically assigns
 missions to the different rovers.
 
-# How it works
+## How to Run 
+
+### How to Run Using Visual Studio 
+
+ 1. Download  all files on your local machine.
+ 2. Open "MarsExploration" folder.
+ 3. Open "MarsExploration.sln" file, using Visual Studio.
+ 4. Run the code (F5).
+
+ ### How to Run Using gcc
+ Makefile will be added soon.
+
+ ## How to Use the Program
+
 It gets from the user text file containing information about the rovers available and the missions required, Then it will simulates the mission assignment process and calculates some related statistics in order to help improve the overall process. 
 
 There are 3 interface modes available
