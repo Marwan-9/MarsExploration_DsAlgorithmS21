@@ -1,4 +1,4 @@
-# Mars Exploration Station Simulator
+# Mars Exploration Simulator
 Mars Exploration is a simple command-line simulator for a hypothetical Mars exploration mission.
 
 ## Overview 
